@@ -19,8 +19,8 @@ Find me at:
 
 ## Current Projects
 
-1. MM2
-2. Facial Recognition Web App
+1. [MM2](https://github.com/yuyeon/yuyeon.github.io/tree/main#1-mm2)
+2. [Facial Recognition Web App](https://github.com/yuyeon/yuyeon.github.io/tree/main#2-facial-recognition-web-app)
 
 ### 1. MM2
 WIP

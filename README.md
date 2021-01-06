@@ -2,6 +2,8 @@
 ### About me
 I'm a second-year computer science major at UCSD. My hobbies include reading and coding, among others. **I'm interested in solving algorithmic problems, applications of algorithms, and artificial intelligence, specifically deep learning.** _This page is a work in progress._
 
+> This is epic
+
 Find me at:
 
 - [Email](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
@@ -25,10 +27,15 @@ WIP
 
 ### 2. Facial Recognition Web App
 ~~Subpar results~~
+
 Specific version required:
 ```
 pip3 install tensorflow==1.15
 ```
+
+**Results**
+
+![image](/images/stateoftheart.png)
 
 ## Past Projects
 

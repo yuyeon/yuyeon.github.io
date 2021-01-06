@@ -4,13 +4,14 @@ I'm a second-year computer science major at UCSD. My hobbies include reading and
 
 Find me at:
 
-[Email](li.alan180@gmail.com)
-
-[LinkedIn](https://www.linkedin.com/in/alan-li-2001/)
+- [Email](li.alan180@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/alan-li-2001/)
 
 ## Contents
 
 - [Current Projects](https://yuyeon.github.io/#current-projects)
+  - MM2
+  - ~~Facial Recognition Web App~~
 - [Pictures](https://yuyeon.github.io/#pictures)
 - [To Do List](https://yuyeon.github.io/#to-do-list)
 

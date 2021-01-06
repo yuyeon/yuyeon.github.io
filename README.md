@@ -12,7 +12,7 @@ Find me at:
 - [Current Projects](https://yuyeon.github.io/#current-projects)
   - MM2
   - Facial Recognition Web App
-- [Pictures](https://yuyeon.github.io/#pictures)
+- [Past Projects](https://yuyeon.github.io/#past-projects)
 - [To Do List](https://yuyeon.github.io/#to-do-list)
 
 ## Current Projects
@@ -21,12 +21,16 @@ Find me at:
 2. Facial Recognition Web App
 
 ### 1. MM2
-Work in progress
+WIP
 
 ### 2. Facial Recognition Web App
 ~~Subpar results~~
+Specific version required:
+```
+pip3 install tensorflow==1.15
+```
 
-## Pictures
+## Past Projects
 
 WIP
 

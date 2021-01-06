@@ -12,7 +12,7 @@ Find me at:
 
 - [Current Projects](https://yuyeon.github.io/#current-projects)
 - [Pictures](https://yuyeon.github.io/#pictures)
-- [Miscellaneous](https://yuyeon.github.io/#miscellaneous)
+- [To Do List](https://yuyeon.github.io/#to-do-list)
 
 ## Current Projects
 
@@ -22,6 +22,11 @@ WIP
 
 WIP
 
-## Miscellaneous
+## To Do List
 
-WIP
+- [x] Set up page
+- [x] Add table of contents
+- [ ] Add theme
+- [ ] Fill out sections
+- [ ] Add more pages
+- [ ] Personalize design with better CSS, etc
